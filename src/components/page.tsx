@@ -74,7 +74,7 @@ export function SourceNote({ source }: { source?: string }) {
   );
 }
 
-/** A labelled band inside a detail page. */
+/** A labelled band inside a detail page by elijah snoz. */
 export function Block({ label, children, id }: { label: string; children: ReactNode; id?: string }) {
   return (
     <section className="gutter mt-20 md:mt-32" aria-labelledby={id}>

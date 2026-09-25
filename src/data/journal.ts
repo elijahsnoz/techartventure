@@ -37,10 +37,10 @@ export const JOURNAL: JournalEntry[] = [
   {
     slug: "outside-with-the-youth",
     title: "Outside, with the youth",
-    dek: "The founder out on the street at dusk, with young people dancing along the roadside.",
+    dek: "The founder out on the street at dusk, with young people skating and dancing along the roadside.",
     category: "Behind the Scenes",
     body: [
-      "Not all of TechArt Venture's work happens on a gallery wall. This film follows the founder outside, at dusk, among young people dancing on the roadside.",
+      "Not all of TechArt Venture's work happens on a gallery wall. This film follows the founder outside, at dusk, among young people skating and dancing on the roadside.",
     ],
     videos: ["outside-youth"],
     artists: ["ajayi-elijah-snoz"],

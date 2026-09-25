@@ -1,5 +1,7 @@
 # TechArt Venture
 
+Created by: Ajayi Damilare Elijah
+
 The website of TechArt Venture: portfolio, artist network, exhibition archive,
 media archive and project showcase. React, Vite, TypeScript, Tailwind CSS v4
 and React Router 7.

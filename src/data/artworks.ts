@@ -1,7 +1,7 @@
 import type { Artwork } from "../types/content";
 
 /**
- * Artworks, transcribed from their primary source.
+ * Artworks, transcribed from their primary source by elijah snoz.
  *
  * Ìpadàbọ̀ works: from the exhibition catalogue (35 pp., © 2026 Elijah Ajayi),
  * in the curator's order. Where the catalogue prints no medium or dimension,

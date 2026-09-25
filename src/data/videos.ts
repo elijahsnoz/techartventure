@@ -8,7 +8,7 @@ export const VIDEOS: Video[] = [
   {
     id: "outside-youth",
     title: "Outside, with the youth",
-    caption: "The founder outside at dusk, with young people dancing along the roadside.",
+    caption: "The founder outside at dusk, with young people skating and dancing along the roadside.",
     event: "Outside",
   },
   {
