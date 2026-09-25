@@ -1,0 +1,37 @@
+{
+  "outside-youth": {
+    "src": "/video/outside-youth.mp4",
+    "poster": "/video/outside-youth-poster.jpg",
+    "width": 720,
+    "height": 1190,
+    "duration": 48
+  },
+  "palmpay-install": {
+    "src": "/video/palmpay-install.mp4",
+    "poster": "/video/palmpay-install-poster.jpg",
+    "width": 720,
+    "height": 1280,
+    "duration": 22
+  },
+  "transcorp-1": {
+    "src": "/video/transcorp-1.mp4",
+    "poster": "/video/transcorp-1-poster.jpg",
+    "width": 720,
+    "height": 1280,
+    "duration": 22
+  },
+  "transcorp-2": {
+    "src": "/video/transcorp-2.mp4",
+    "poster": "/video/transcorp-2-poster.jpg",
+    "width": 720,
+    "height": 1280,
+    "duration": 17
+  },
+  "transcorp-3": {
+    "src": "/video/transcorp-3.mp4",
+    "poster": "/video/transcorp-3-poster.jpg",
+    "width": 720,
+    "height": 1280,
+    "duration": 9
+  }
+}
